@@ -15,3 +15,24 @@ Python is **the foundation of Data Science & Machine Learning**. This module exp
 📜 **Contents:**
 - `Python_Basics_Advanced.ipynb` → Notebook with detailed explanations & hands-on exercises
 
+# 📊 Statistics & Probability for Data Science
+## 📌 Overview
+Statistics is the **foundation of Data Science & AI**. It helps in:
+✔ **Understanding data distributions & variability**  
+✔ **Predicting future trends with probability models**  
+✔ **Testing hypotheses & making data-driven decisions**  
+✔ **Applying Bayesian reasoning in AI & decision-making**  
+
+## 🔍 Topics Covered:
+✔ **Descriptive Statistics (Mean, Median, Variance, Skewness, Kurtosis)**  
+✔ **Probability Theory (Conditional Probability, Bayes’ Theorem, Distributions)**  
+✔ **Parameter Estimation (MLE, MAP, Bayesian Inference)**  
+✔ **Hypothesis Testing (A/B Testing, p-values, Confidence Intervals)**  
+✔ **Decision Theory & Risk Analysis (Bayesian Risk, Action Space, Expected Loss)**  
+✔ **Real-World Applications (Finance, AI, Healthcare, Marketing Analytics)**  
+✔ **Interview Questions with Answers**  
+
+📜 **Notebook:**  
+- `Statistics_DeepDive.ipynb` → All theory, formulas, real-world use cases, and Python implementations in one file.
+
+
