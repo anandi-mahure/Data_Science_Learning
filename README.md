@@ -29,8 +29,8 @@ Statistics is the **foundation of Data Science & AI**. It helps in:
 ✔ **Parameter Estimation (MLE, MAP, Bayesian Inference)**  
 ✔ **Hypothesis Testing (A/B Testing, p-values, Confidence Intervals)**  
 ✔ **Decision Theory & Risk Analysis (Bayesian Risk, Action Space, Expected Loss)**  
-✔ **Real-World Applications (Finance, AI, Healthcare, Marketing Analytics)**  
-✔ **Interview Questions with Answers**  
+
+
 
 📜 **Notebook:**  
 - `Statistics_DeepDive.ipynb` → All theory, formulas, real-world use cases, and Python implementations in one file.
